@@ -1,1 +1,1 @@
-created a directory for my activties in the alx zero day
+created a directory for my coding activties in the alx zero day
